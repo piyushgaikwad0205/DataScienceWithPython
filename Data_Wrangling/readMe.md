@@ -1,4 +1,4 @@
-# Pratical No 1 : Data Wrangling 
+Pratical No 1 : Data Wrangling 
 --------------------------------
 
 **Pratical No:** 1 
