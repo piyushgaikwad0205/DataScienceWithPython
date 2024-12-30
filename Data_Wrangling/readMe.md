@@ -1,7 +1,8 @@
 #Pratical No 1 : Data Wrangling 
 --------------------------------
 
-**Pratical No:** 1
+**Pratical No:** 1 
+
 **Date :** 31/12/24
 
 
